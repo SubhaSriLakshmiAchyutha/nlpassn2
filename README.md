@@ -1,4 +1,4 @@
-Q5: Evaluation Metrics from a Multi-Class Confusion Matrix
+# Q5: Evaluation Metrics from a Multi-Class Confusion Matrix
 
 Program uses a confusion matrix showing system predictions vs. actual labels for Cat, Dog, and Rabbit.
 
@@ -24,7 +24,7 @@ Micro Average: combine totals first, then calculate (larger classes have more we
 
 Prints precision and recall per class, along with macro and micro averages.
 
-Q8: Bigram Language Model Implementation
+# Q8: Bigram Language Model Implementation
 
 Program trains a bigram model using three short sentences (“I love NLP”, “I love deep learning”, “deep learning is fun”).
 
